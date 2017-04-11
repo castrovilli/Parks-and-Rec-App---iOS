@@ -1,5 +1,12 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 ## Parks-and-Rec-App---iOS
 ---
+![Pandr](https://nikhilp.org/images/a.png)
+
+[![Build Status](https://travis-ci.org/indianpoptart/Parks-and-Rec-App---iOS.svg?branch=master)](https://travis-ci.org/indianpoptart/Parks-and-Rec-App---iOS)
+
+!! THIS PROJECT HAS BEEN ABANDONED BY THE RIDGEFIELD PARKS AND RECREATION. I MAY CONTINUE TO WORK ON IT IF I WANT !!
 
 iOS version of the parks and rec app
 
@@ -8,21 +15,38 @@ It is only useful to members of Ridgefield Parks and Recreation
 It displays alerts for closings, and it has schedules, agenda's
 and a button to call the facility
 
-## Why go open source?
+Current stable relese: v1.1
 
-Just cause I wanted to.
+Current beta release: v1.1.2
 
-Nah, this app is open source since the app is already free. It is intended to be a source of sample code for everyone to benefit from. You can make cool apps that use core features of this app and hopefully get more users because you built something cool.
+Upcoming release: v1.2
 
-Also, if you want to help out and fix some bugs, that would make my year :).
+[<img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg">][2]
 
-## Helping out
+[2]: https://geo.itunes.apple.com/us/app/myparksandrec/id924248341?mt=8
 
-If you want to fix bugs, I'll love you forever! If you would like to add some features, I may, or may not merge it. If I think it will really benefit the app, I will message you saying that it will be added, with you name in it. Check out the  [issues](https://github.com/indianpoptart/Parks-and-Rec-App---iOS/issues) page if you would like to help out with the code, I'd greatly appreciate it.
 
+## Tested on
+* iPhone 4S
+* iPhone 5
+* iPhone 5S
+* iPhone 6 
+* iPhone 6 +
 
 ## License
 
-The Parks and Rec for iOS source code is released under the [MIT License](https://github.com/indianpoptart/Parks-and-Rec-App---iOS/blob/master/LICENSE).
+The Parks and Rec for iOS source code is released under the [BSD (3-Clause) License](https://github.com/indianpoptart/Parks-and-Rec-App---iOS/blob/master/LICENSE).
 
 While it is not strictly forbidden by the license, I would greatly appreciate it if you didn't redistribute this app exactly the way it is in the App Store. There's nothing stopping you, but please don't do it.
+
+## 3rd Party API's
+
+Thank you [topfunky](http://topfunky.com) for creating [hpple](https://github.com/topfunky/hpple), useful for website scraping and getting data from the website
+
+## Currently Testing in beta
+
+## What's New in v1.1
+-  Made schedules dynamic instead of static
+-  New test out schedule
+-  Minor bug fixes
+-  Minor graphical changes
